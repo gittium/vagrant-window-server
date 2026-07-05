@@ -1,0 +1,3 @@
+# Keep large SQL Server installer media out of git.
+*
+!.gitignore
