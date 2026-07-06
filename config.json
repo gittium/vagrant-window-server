@@ -1,0 +1,7 @@
+{
+  "sa_password": "Str0ng!Passw0rd",
+  "servers": [
+    { "name": "testdb1", "ram_mb": 4096, "cpus": 2, "data_disk_gb": 0 },
+    { "name": "testdb2", "ram_mb": 4096, "cpus": 2, "data_disk_gb": 0, "data_disk_letter": "D" }
+  ]
+}

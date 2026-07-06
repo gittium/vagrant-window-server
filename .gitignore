@@ -1,0 +1,7 @@
+# Vagrant's local state, logs, and any generated VM disks (e.g. data disks
+# created via DATA_DISK_GB) — machine-specific, never commit these.
+.vagrant/
+
+# Baked box/OVA build output (multi-GB binaries) — distribute separately,
+# never commit these.
+dist/
